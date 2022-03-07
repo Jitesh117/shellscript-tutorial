@@ -1,0 +1,18 @@
+
+cd - change directory
+pwd - show curernt directory
+ls - list all items
+cp - copy
+mv - move
+rm - remove
+echo - print
+cat - show the contents
+less - 
+grep
+mkdir- make directories
+touch -
+chmod - change mode
+man + help
+readonly - makes the variable readonly
+there should not be any space between the equal and the variable, value
+
