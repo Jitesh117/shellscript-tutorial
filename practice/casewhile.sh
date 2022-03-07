@@ -1,11 +1,12 @@
 
-echo "Please talk to me "
+input="hello"
+echo "Talk to me please"
 while :
 do
     read input
     case $input in
-    hello)
-     echo  "Hello "
+    hello )
+     echo "Hello to you too!"
      ;;
     bye)
      echo "See you again"
@@ -13,8 +14,8 @@ do
      ;;
      *)
      echo "Sorry I didn't get you"
-     ;;
-     esac
-     done
 
-    echo "That's all folks:"
+     ;;
+    esac
+    done
+echo "That's all folks" 
