@@ -8,5 +8,5 @@ read folder
 echo "Enter the character"
 read char
 cd $folder
-ls *[$char]*
-grep -Rl "curl" ./ -c
+ls *[$char]* -1 -l
+# echo | grep "^.*$" -c
