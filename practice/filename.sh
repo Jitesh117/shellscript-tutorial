@@ -8,5 +8,6 @@ read folder
 echo "Enter the character"
 read char
 cd $folder
-ls *[$char]* -1 -l
+ls *[$char]* -1 -l | number
+echo number
 # echo | grep "^.*$" -c

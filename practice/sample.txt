@@ -1,9 +1,7 @@
 This line contains pec
 This line does not contain 
-
 This is the second line which contains pec
 This is the second line which does not contain 
-
 Third pec
 fourth pec
 third not 
