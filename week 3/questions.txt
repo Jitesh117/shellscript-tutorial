@@ -1,0 +1,6 @@
+1. Write a shell script which receives two file names as arguments. It should check whether the two file 
+   contents are the same or not. If they are the same then the second file should be deleted.
+2.  Write a shell script that displays a list of all the files in the current directory to which the user has 
+    read, write and execute permissions.
+3. Write a shell script that accepts a file name, starting and ending line numbers as arguments and displays
+     all the lines between the given line numbers.
