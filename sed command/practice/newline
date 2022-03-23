@@ -1,0 +1,19 @@
+-rw-r--r-- 1 Asus 197121  96 Mar  7 19:15 default.sh
+-rw-r--r-- 1 Asus 197121   0 Mar  7 16:27 file.txt
+-rw-r--r-- 1 Asus 197121 177 Mar 10 05:36 fileline.sh
+-rw-r--r-- 1 Asus 197121 373 Mar 10 13:11 filename.sh
+-rwxr-xr-x 1 Asus 197121 363 Mar 10 13:10 filenum.sh
+-rw-r--r-- 1 Asus 197121 115 Mar  6 15:19 forloop.sh
+-rw-r--r-- 1 Asus 197121  31 Mar  6 15:17 secfor.sh
+-rwxr-xr-x 1 Asus 197121  72 Mar  7 17:43 shift.sh
+
+newfolder:
+total 0
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:38 file1
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 file2
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 file3
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 file4
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 file5
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 toughfile1
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 toughfile2
+-rw-r--r-- 1 Asus 197121 0 Mar 23 16:39 toughfile3
