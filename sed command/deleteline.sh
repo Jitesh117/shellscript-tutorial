@@ -6,6 +6,8 @@ echo "enter the ending line number"
 
 read n
 
-sed -n $s,$n\p $fname | cat > newline
+sed  ''$s','$n'd' $fname > newfile.txt
+rm $fname
+mv newfile.txt $fname
 
-cat newline
+cat $fname
